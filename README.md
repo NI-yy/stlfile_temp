@@ -61,10 +61,7 @@ https://github.com/user-attachments/assets/62c76dcf-048d-4372-a7d2-90046dcec173
 
 1.  **ParRot** ([GitHub](https://github.com/ParRot-3DMouse/ParRotHardware)): ボール保持部分の設計に利用しました．このモデルは**GNU Lesser General Public License v2.1**ライセンスです．
 2.  **HTC Vive Joystick mod. by 3DaptiveClint** ([Thingiverse](https://www.thingiverse.com/thing:2705398)): アタッチメント機構（特に上部）の設計に利用しました．このモデルは **CC-BY-NC 4.0** (表示 - 非営利 4.0 国際) ライセンスです．
-3.  **SteamVR Unity Plugin - v2.8.0** (Valve): コントローラのカバー部分の設計に利用しました．このプラグインは**BSD 3-Clause "New" or "Revised" License**ライセンスで提供されています．
-
-以上の理由から，本リポジトリに含まれるデータは **CC-BY-NC 4.0** (表示 - 非営利 4.0 国際) ライセンスの下で提供されます．
-営利目的での利用はできませんが，研究目的などの非営利利用においては自由に改変・使用いただけます．
+3.  **SteamVR Unity Plugin - v2.8.0** (Valve): コントローラのカバー部分の設計に利用しました．本リポジトリにはValve社が著作権を有するモデルデータ自体は含まれていません
 
 ## 連絡先 (Contact)
 
